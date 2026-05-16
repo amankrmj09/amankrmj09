@@ -1,32 +1,32 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header&animation=fadeIn"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+👋!+I'm+Aman+Kumar+Maurya;Aspiring+Software+Engineer+💻;Backend+|+System+Design+|+Docker+Focused;Always+Learning+%26+Always+Building+🚀" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=!WELCOME!&height=100&section=header&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+👋!+I'm+Aman+Kumar+Maurya;Aspiring+Software+Engineer+💻;Backend+|+System+Design+|+Docker+Focused;Frontend+with+React+%26+Angular+⚛️;Always+Learning+%26+Always+Building+🚀" alt="Typing SVG" />
 </p>
 
 <p align = "left">
 
-Hi, I'm Aman Kumar — a B.Tech graduate in Electronics and Computer Engineering and an aspiring **Software Engineer** focused on building scalable backend systems.
+Hi, I'm Aman Kumar — a B.Tech graduate in Electronics and Computer Engineering and an aspiring **Software Engineer** focused on building scalable backend systems and modern web frontends.
   
 <div align="center">  
 
-🚀 **Flutter Application Developer** | 💻 **Backend Developer (Spring Boot)**  
-🧠 **System Design Enthusiast** | 🐳 **Docker Practitioner**  
+🚀 **Frontend Developer (React & Angular)** | 💻 **Backend Developer (Spring Boot)**  
+🧠 **System Design Enthusiast** | 🐳 **Docker** | 📦 **Microservices Architect**
 
-Proficient in **Java**, and **Dart** 🌍   
+Proficient in **Java**, **TypeScript**, and **JavaScript** 🌍   
 
 
 🌐 **Portfolio:** A showcase of my projects, system design learning, and backend engineering work  
 👉 [Explore my work 🕸️](https://amankrmj09.github.io/portfolio/)
 </div>
 
-I've developed multiple cross-platform mobile applications using **Flutter** integrated with **Firebase**, **Spring Boot**, and **MongoDB**.  
+I've developed multiple web applications using **React** and **Angular** integrated with **Spring Boot**, **Firebase**, and **MongoDB**.  
 Currently strengthening my expertise in **containerized backend systems**, **clean architecture**, and **system design principles**.
 </p>  
 
 ---
 
 - 🌱 **Currently Learning** → Deepening backend development with Spring Boot & microservices  
-- 🎯 **Next Target** → Advanced Flutter architecture & clean code patterns  
+- 🎯 **Next Target** → Advanced React architecture & Angular best practices  
 - 🛠 **Main Objective** → Becoming a full-stack Software Engineer  
 - 🌐 **Passion** → Solving real-world problems through tech, with clean and scalable code  
 - ⚡ **Fun fact** → !!Unity Believer!! （￣︶￣）↗　
@@ -57,11 +57,11 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42"/>
       </a>
-      <!-- <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-        <img src="https://beeimg.com/images/h32584611314.png" alt="Solidity" width="42"/>
-      </a> -->
-      <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-        <img src="https://beeimg.com/images/s36901406181.png" alt="Dart" width="42"/>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42"/>
       </a>
       <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
         <img src="https://beeimg.com/images/w67297240351.png" alt="Kotlin" width="42"/>
@@ -96,8 +96,11 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
   <tr>
     <td>Frameworks</td>
     <td>
-      <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-        <img src="https://beeimg.com/images/e99612314151.png" alt="Flutter" width="42"/>
+      <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42"/>
+      </a>
+      <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="42"/>
       </a>
       <a href="https://docs.spring.io/spring-boot/index.html" target="_blank" rel="noreferrer">
         <img src="https://8upload.com/image/681cd3f76efac/icons8-spring-boot-96.png" alt="Spring Boot" width="42"/>
