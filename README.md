@@ -15,8 +15,8 @@ Hi, I'm Aman Kumar — a B.Tech graduate in Electronics and Computer Engineering
 Proficient in **Java**, **TypeScript**, and **JavaScript** 🌍   
 
 
-🌐 **Portfolio:** A showcase of my projects, system design learning, and backend engineering work  
-👉 [Explore my work 🕸️](https://amankrmj09.github.io/portfolio/)
+Liked my work? Visit my portfolio  
+🌐 [amankrmj.dev](https://portfolio.amankrmj.dev)
 </div>
 
 I've developed multiple web applications using **React** and **Angular** integrated with **Spring Boot**, **Firebase**, and **MongoDB**.  
@@ -129,7 +129,7 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
 
 <h3 align="left">Contest Platforms</h3>
 <p align="left">
-  <a href="https://www.hackerrank.com/amankrmj" target="_blank">
+  <a href="https://www.hackerrank.com/amankrmj09" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="42"/>
   </a>
   <a href="https://leetcode.com/amankrmj09/" target="_blank">
