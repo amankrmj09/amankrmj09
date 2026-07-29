@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=!WELCOME!&height=100&section=header&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20I'm%20Aman&height=200&section=header&animation=fadeIn"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+👋!+I'm+Aman+Kumar+Maurya;Aspiring+Software+Engineer+💻;Backend+|+System+Design+|+Docker+Focused;Frontend+with+React+%26+Angular+⚛️;Always+Learning+%26+Always+Building+🚀" alt="Typing SVG" />
 </p>
 
@@ -16,7 +16,7 @@ Proficient in **Java**, **TypeScript**, and **JavaScript** 🌍
 
 
 Liked my work? Visit my portfolio  
-🌐 [amankrmj.dev](https://portfolio.amankrmj.dev)
+🌐 [amankrmj.dev](https://amankrmj.dev)
 </div>
 
 I've developed multiple web applications using **React** and **Angular** integrated with **Spring Boot**, **Firebase**, and **MongoDB**.  
