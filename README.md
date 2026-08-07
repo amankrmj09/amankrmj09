@@ -35,7 +35,7 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
 
 <div align="center">
 
-![GitHubCard](https://githubcard.com/amankrmj09.svg?d=4Zi2cWwZ)
+![GitHubCard](https://githubcard.com/amankrmj09.svg?d=kJ1zpTVS5I_t)
 
 </div>
 
