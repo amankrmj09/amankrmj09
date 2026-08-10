@@ -160,12 +160,15 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/amankrmj09?theme=nord&font=Noto%20Sans%20Sundanese&ext=contest)
 </div>
+  
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/singularity-grid-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/singularity-grid-light.svg" />
+    <img alt="singularity-grid" src="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/singularity-grid-light.svg" />
+  </picture>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/github-snake.svg" />
-</picture>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
