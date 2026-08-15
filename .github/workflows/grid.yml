@@ -1,4 +1,4 @@
-name: Generate Singularity Grid
+name: Generate conway's game of life
 
 on:
   schedule:
@@ -18,8 +18,8 @@ jobs:
     steps:
       - uses: actions/checkout@v7.0.1
       
-      - name: Generate Singularity Grid
-        uses: blubugtech/singularity-grid@v1.0.8
+      - name: Generate conways game of life
+        uses: blubugtech/conways-game-of-life@v2.0.0.1
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
