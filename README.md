@@ -166,15 +166,15 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/singularity-grid-dark.gif"
+        srcset="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/conways-game-of-life-dark.gif"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/singularity-grid-light.gif"
+        srcset="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/conways-game-of-life-light.gif"
       />
       <img
         alt="singularity-grid"
-        src="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/singularity-grid-light.svg"
+        src="https://raw.githubusercontent.com/amankrmj09/amankrmj09/output/conways-game-of-life-light.svg"
       />
     </picture>
   </a>
