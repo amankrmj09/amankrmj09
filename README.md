@@ -29,7 +29,7 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
 - 🎯 **Next Target** → Advanced React architecture & Angular best practices  
 - 🛠 **Main Objective** → Building scalable, production-ready full-stack projects  
 - 🌐 **Passion** → Solving real-world problems through tech, with clean and scalable code  
-- ⚡ **Fun fact** → !!Unity Believer!! （￣︶￣）↗　
+- ⚡ Fun fact → A group of flamingos is called a "flamboyance" 🦩 (a group of my bugs is called "production")
 
 ---
 
