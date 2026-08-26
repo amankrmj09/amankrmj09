@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20I'm%20Aman&height=200&section=header&animation=fadeIn"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+👋!+I'm+Aman+Kumar+Maurya;Aspiring+Software+Engineer+💻;Backend+|+System+Design+|+Docker+Focused;Frontend+with+React+%26+Angular+⚛️;Always+Learning+%26+Always+Building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hi+👋!+I'm+Aman+Kumar+Maurya;Backend+|+System+Design+|+Docker+Focused;Frontend+with+React+%26+Angular+⚛️;Always+Learning+%26+Always+Building+🚀" alt="Typing SVG" />
 </p>
 
 <p align = "left">
 
-Hi, I'm Aman Kumar — a B.Tech graduate in Electronics and Computer Engineering and an aspiring **Software Engineer** focused on building scalable backend systems and modern web frontends.
+Hi, I'm Aman Kumar — a B.Tech graduate in Electronics and Computer Engineering, focused on building scalable backend systems and modern web frontends.
   
 <div align="center">  
 
@@ -27,7 +27,7 @@ Currently strengthening my expertise in **containerized backend systems**, **cle
 
 - 🌱 **Currently Learning** → Deepening backend development with Spring Boot & microservices  
 - 🎯 **Next Target** → Advanced React architecture & Angular best practices  
-- 🛠 **Main Objective** → Becoming a full-stack Software Engineer  
+- 🛠 **Main Objective** → Building scalable, production-ready full-stack projects  
 - 🌐 **Passion** → Solving real-world problems through tech, with clean and scalable code  
 - ⚡ **Fun fact** → !!Unity Believer!! （￣︶￣）↗　
 
